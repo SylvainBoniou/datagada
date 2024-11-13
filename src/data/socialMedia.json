@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "github",
+    "url": "https://github.com/SylvainBoniou"
+  },
+  {
+    "id": 1,
+    "name": "linkedin",
+    "url": "https://www.linkedin.com/in/sylvain-boniou/"
+  },
+  {
+    "id": 2,
+    "name": "twitter",
+    "url": "https://x.com/_joboon_"
+  }
+]
